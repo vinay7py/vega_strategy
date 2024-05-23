@@ -1,0 +1,4 @@
+kiteconnect
+numpy
+pandas
+scipy
